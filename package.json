@@ -1,0 +1,22 @@
+{
+  "name": "readmegen1.0",
+  "version": "1.0.0",
+  "description": "Creating a good ReadMe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kileelucero/ReadMeGen1.0.git"
+  },
+  "author": "Kilee Lucero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kileelucero/ReadMeGen1.0/issues"
+  },
+  "homepage": "https://github.com/kileelucero/ReadMeGen1.0#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
