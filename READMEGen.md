@@ -1,9 +1,9 @@
-# ReadMeGen1.0
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+# planner
+![License: none](https://img.shields.io/badge/License-none-blue.svg)
 ## Description
-Create A Good ReadME And With Ease
+Web Based Planner
 
-Link to live site: [ReadMeGen1.0](https://kileelucero.github.io/ReadMeGen1.0/)
+Link to live site: [planner](https://kileelucero.github.io/planner/)
 
 ## Table of Contents
 
@@ -15,11 +15,11 @@ Link to live site: [ReadMeGen1.0](https://kileelucero.github.io/ReadMeGen1.0/)
 * [Questions](#questions)
 
 ## Installation
-None
+Run In Browser
 ## Usage
-Generating Easier Readme's
+Used To Plan Day/Week Accordingly
 ## License
-MIT
+none
 Copyright (c) 2020 Kilee Lucero
 ## Contribution
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owner(s) of this repository before making a change.
